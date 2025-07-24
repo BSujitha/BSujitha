@@ -9,7 +9,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Computer Science Engineering graduate from JCT College (2021–2025) with 87%  
-- 🌱 Currently working as a developer at **Bitsmind Technologies** on real-time web applications  
+- 🌱 Worked as a developer at **Bitsmind Technologies** on real-time web applications  
 - 🚀 Completed internships and live projects at **Tap Academy** and **Techvolt Pvt. Ltd.**  
 - 💡 I love creating smooth user experiences and optimizing backend logic  
 - 🤝 Team-oriented and passionate about writing clean, efficient, and scalable code  
