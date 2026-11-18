@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Sujitha B</h1>
 
-<p align="center">
- 🚀 Full Stack Web Developer | Java | Spring Boot | ReactJS
-</p>
 
+<p align="center">
+  🚀 Junior Flutter Developer | Flutter & Dart | Java Full Stack | Spring Boot | React.js
+</p>
 
 ---
 
@@ -130,12 +130,21 @@
 ---
 
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BSujitha&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSujitha&layout=compact&theme=radical" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BSujitha&show_icons=true&theme=radical"
+    alt="Sujitha's GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSujitha&layout=compact&theme=radical"
+    alt="Sujitha's Most Used Languages"
+    width="48%"
+  />
 </p>
+
 
 ---
 
