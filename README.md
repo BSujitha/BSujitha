@@ -133,16 +133,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BSujitha&show_icons=true&theme=radical"
-    alt="Sujitha's GitHub Stats"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSujitha&layout=compact&theme=radical"
-    alt="Sujitha's Most Used Languages"
-    width="48%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BSujitha&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSujitha&layout=compact&theme=radical" width="48%" />
 </p>
 
 
