@@ -4,19 +4,23 @@
  🚀 Full Stack Web Developer | Java | Spring Boot | ReactJS
 </p>
 
+
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 Computer Science Engineering graduate from JCT College (2021–2025) with 87%  
-- 🌱 Worked as a developer at **Bitsmind Technologies** on real-time web applications  
-- 🚀 Completed internships and live projects at **Tap Academy** and **Techvolt Pvt. Ltd.**  
-- 💡 I love creating smooth user experiences and optimizing backend logic  
-- 🤝 Team-oriented and passionate about writing clean, efficient, and scalable code  
-- ⚡ Fun fact: I enjoy debugging as much as building 🐞🔧
-
+- 💼 Currently working as a **Junior Flutter Developer at Praapthi Softech**
+- 🎓 B.E. (Honours) in Computer Science and Engineering from **JCT College of Engineering and Technology (2021–2025)** | CGPA: 8.7
+- 🚀 Developing cross-platform applications using **Flutter and Dart** for Windows, Web, and Android
+- 🛠️ Working on **Graphic Bridge**, a business management and billing application, and **PrinTrick**, an e-commerce printing platform
+- 💻 Skilled in **Flutter, Dart, React.js, Java, Spring Boot, REST APIs, Firebase, and MySQL**
+- 🌱 Gained hands-on development experience through internships and training at **Bitsmind Technology, Tap Academy, and Tech Volt Software**
+- 🤖 Exploring AI-assisted development using **ChatGPT, OpenAI Codex, and Google Antigravity**
+- 🤝 Passionate about building scalable applications, solving problems, and creating user-friendly software
+- ⚡ Fun fact: I enjoy debugging as much as building! 🐞🔧
 
 ---
+
 
 ### 🛠 Tech Stack
 
@@ -71,28 +75,60 @@
 ---
 
 
+
+---
+
 ### 📚 Projects
 
-- **👓 Sight Assistant for the Blind**  
-  Smart glasses system for visually impaired users with real-time object detection and voice alerts in Tamil, English, and Hindi.
+#### 💼 Company Projects
 
-- **📱 QR Scanning Medicine App**  
-  Hackathon app that scans medicine QR codes to fetch dosage, side effects, and usage info.
+**🧾 Graphic Bridge — Business Management & Billing Application**
+- **Technologies:** Flutter, Dart, Firebase, REST APIs, WebSockets, SQLite
+- Developed a cross-platform application for Windows, Web, and Android.
+- Built modules for customer enquiries, quotations, job cards, invoicing, inventory, and payments.
+- Implemented production tracking, role-based access, sales reporting, and PDF generation.
 
-- **🏥 Hospital Appointment System**  
-  Full-stack system to schedule appointments, register patients, and manage doctor availability.
+**🛒 PrinTrick — E-commerce Printing Platform**
+- **Technologies:** React.js, Next.js
+- Developed an e-commerce platform for customized printing products.
+- Worked on product customization, artwork uploads, cart, checkout, and order management.
+- Supported print-ready PDF artwork generation and responsive UI development.
+
+#### 🎓 Academic Project
+
+**👓 Sight Assistant for the Blind**
+- Developed an assistive wearable solution for visually impaired users.
+- Implemented object detection and obstacle alerts.
+- Added multilingual voice guidance in Tamil, English, and Hindi.
+
+#### 🏆 Hackathon Projects
+
+**🏥 Hospital Appointment System**
+- **Technologies:** React.js, Spring Boot, MySQL, REST APIs
+- Developed patient registration and appointment scheduling features.
+- Implemented doctor availability tracking and booking workflows.
+
+**💊 QR Scanning Medicine App**
+- Developed an application to scan medicine QR codes.
+- Displayed medicine dosage, usage instructions, and side-effect information.
 
 ---
 
-### 🏆 Certifications
 
-- Postman API Certificate – Postman Academy  
-- Java Programming – Programming Hub  
-- Blockchain NPTEL Course  
-- Web Development – Techvolt Pvt. Ltd.  
-- StarHack Era & TANCAM Hackathon Participant  
 
 ---
+
+### 🏆 Certifications & Achievements
+
+- 📜 **Postman API Certification** – Postman Academy
+- ☕ **Java Programming** – Programming Hub
+- 💻 **Java Full Stack Web Development** – Tap Academy
+- 🌐 **Web Development** – Tech Volt Software Pvt. Ltd.
+- 🔗 **Blockchain Course** – NPTEL
+- 🏆 **StarHack Era & TANCAM Hackathon** – Participant
+
+---
+
 
 ### 📈 GitHub Stats
 
